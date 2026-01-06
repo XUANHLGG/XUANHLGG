@@ -1,5 +1,7 @@
-## Hi there 👋
+## Ciallo～(∠・ω< )⌒★
+**主页访问次数**
 
+![Visitor Count](https://count.getloli.com/@XUANHLGG?name=XUANHLGG&theme=miku&padding=7&offset=0&align=top&scale=0.5&pixelated=0&darkmode=auto) 
 <!--
 **XUANHLGG/XUANHLGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
